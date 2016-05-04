@@ -6,8 +6,8 @@
     "dist/angular-prompt.js"
   ],
   "dependencies": {
-    "angular": "~1.2.16",
-    "angular-bootstrap": "~0.12.0"
+    "angular": "~1.5.5",
+    "angular-bootstrap": "~1.3.2"
   },
   "ignore": [
     "**/.*",

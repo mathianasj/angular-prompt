@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgross/angular-prompt.git"
+    "url": "https://github.com/mathianasj/angular-prompt.git"
   },
   "devDependencies": {
     "grunt": "~0.4.4",
